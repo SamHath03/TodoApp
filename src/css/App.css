@@ -1,0 +1,19 @@
+input{
+    width: 100%;
+}
+
+.items-container{
+    text-align: left;
+}
+
+.kg-row{
+    margin: 15px 10px;
+}
+
+.kg-button{
+    min-width: 80px;
+}
+
+.todo-container{
+    justify-content: center;
+}
